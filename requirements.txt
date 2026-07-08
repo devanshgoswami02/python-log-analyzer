@@ -1,0 +1,3 @@
+# Python Log Analyzer CLI Tool
+# No external dependencies required.
+# This project uses only Python Standard Library modules.
